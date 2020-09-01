@@ -39,7 +39,8 @@
   <img height="64" width="64" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_kite.svg" />
 </p>
 
-
-## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duffy-y&hide=ShaderLab,HLSL&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Duffy-y&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center"> Statistics </h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duffy-y&hide=ShaderLab,HLSL&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duffy-y&show_icons=true&theme=tokyonight"/>
+</p>
