@@ -1,6 +1,6 @@
 ### Languages and Tools
 <div>
-  <img height="32" width="32" src=html />
+  <img height="32" width="32" src=[html] />
   <img height="32" width="32" src=css />
   <img height="32" width="32" src=sass />
 </div>
