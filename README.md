@@ -1,4 +1,4 @@
-## Workspace Setup
+<h2 align="center"> Workspace Setup </h2>
 <h3 align="center"> Desktop </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/nvidia-gtx%201070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/windows-Razer%20Blade%2015-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-## Languages
+<h2 align="center"> Languages </h2>
 <p align="center">Here, you can see the list of all the languages I used and worked with in some of my personal projects. </p>
 <p align="center">
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,7 +27,7 @@
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </p>
 
-## Tools
+<h2 align="center"> Workspace Setup </h2>
 <p align="center">You can also see the tools I used regularly to work on my projects. </p>
 <p align="center">
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -40,6 +40,6 @@
 </p>
 
 
-## Statistics
+<h2 align="center"> Statistics </h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duffy-y&hide=ShaderLab,HLSL&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Duffy-y&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
