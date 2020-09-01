@@ -27,7 +27,7 @@
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </p>
 
-<h2 align="center"> Workspace Setup </h2>
+<h2 align="center"> Tools </h2>
 <p align="center">You can also see the tools I used regularly to work on my projects. </p>
 <p align="center">
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
