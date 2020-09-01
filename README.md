@@ -21,4 +21,4 @@ You can also see the tools I used regularly to work on my projects.
 
 ## Statistics
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Duffy-y&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duffy-y&theme=tokyonight?hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duffy-y&hide=ShaderLab,HLSL&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
