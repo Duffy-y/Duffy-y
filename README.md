@@ -1,3 +1,9 @@
+<h2 align="center"> Introduction </h2>
+<p align="center">Hi, I'm Alexandre, a french student at CY-Tech (formerly EISTI) at Pau. I'm far from being a professional developer.</p>
+<p align="center">I love to create software, script, website, messing with Unity and playing video games :smiley:</p>
+<p align="center">I don't take any jobs, I'm focusing on in my studies :school_satchel:.</p>
+
+
 <h2 align="center"> Workspace Setup </h2>
 <h3 align="center"> Desktop </h3>
 <p align="center">
@@ -19,6 +25,7 @@
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img height="64" width="64" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
   <img height="64" width="64" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
   <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
