@@ -1,13 +1,17 @@
 ## Workspace Setup
 ### Desktop
-<img src="https://img.shields.io/badge/nvidia-gtx%201070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/intel-core%20i5%206600K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
-<img src="https://img.shields.io/badge/windows-10-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/nvidia-gtx%201070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intel-core%20i5%206600K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/windows-10-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
 ### Laptop
+<p>
 <img src="https://img.shields.io/badge/nvidia-rtx%202070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/intel-core%20i7%208750H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
 <img src="https://img.shields.io/badge/windows-Razer%20Blade%2015-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
 ## Languages
 Here, you can see the list of all the languages I used and worked with in some of my personal projects. 
