@@ -40,6 +40,6 @@
 </p>
 
 
-<h2 align="center"> Statistics </h2>
+## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duffy-y&hide=ShaderLab,HLSL&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Duffy-y&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
