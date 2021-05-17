@@ -1,7 +1,6 @@
 <h2 align="center"> Introduction </h2>
 <p align="center">Hi, I'm Alexandre, a french student at CY-Tech (formerly EISTI) at Pau. I'm far from being a professional developer.</p>
 <p align="center">I love to create software, script, website, messing with Unity and playing video games :smiley:</p>
-<p align="center">I don't take any jobs, I'm focusing on in my studies :school_satchel:.</p>
 
 
 <h2 align="center"> Workspace Setup </h2>
