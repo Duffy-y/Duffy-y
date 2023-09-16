@@ -1,7 +1,6 @@
 <h2 align="center"> Introduction </h2>
-<p align="center">Hi, I'm Alexandre, a french student at Paris-Saclay University. Currently learning physics and chemistry as an undergraduate.</p>
+<p align="center">Hi, I'm Alexandre, a french student at Paris-Saclay University. Currently in third year at the Fundamental Physics Magister.</p>
 <p align="center">I love to make physics simulation to have a better visualisation of what I am learning :)</p>
-
 
 <h2 align="center"> Workspace Setup </h2>
 <h3 align="center"> Desktop </h3>
