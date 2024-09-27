@@ -1,4 +1,3 @@
-<h2 align="center"> Introduction </h2>
 <p align="center">Hi, I'm Alexandre, a french student at Paris-Saclay University. Currently in first year in master's degree at the Fundamental Physics Magister of Paris-Saclay's University.</p>
 <p align="center">I love to make physics simulation to have a better visualisation of what I am learning :)</p>
 
